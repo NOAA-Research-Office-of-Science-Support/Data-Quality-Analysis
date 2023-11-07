@@ -1,6 +1,6 @@
 # Data-Quality-Analysis
 
-This document serves to explain the business rules that are used to assess the data quality of the NOAA Research and Development Database (NRDD) data. 
+This read me file serves to explain the business rules that are used to assess the data quality of the NOAA Research and Development Database (NRDD) data. 
 
 ## Method
 ### Data Quality Assessment Rules
